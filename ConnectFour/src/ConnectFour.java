@@ -1,3 +1,5 @@
+// This is Rebecca Velez making a comment and adding changes through Github.
+
 import java.util.Scanner;
 
 public class ConnectFour {
